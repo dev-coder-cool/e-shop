@@ -18,7 +18,7 @@ Welcome to **Shopsy**, a sleek landing page designed for an e-commerce platform,
 
 ## How to View
 
-You can explore the Landing page by visiting 
+You can explore the Landing page by visiting https://shopsy-ecommerce-react.vercel.app/
 
 ## Contributing
 
